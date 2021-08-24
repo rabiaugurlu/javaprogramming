@@ -1,2 +1,2 @@
 # javaprogramming
-Java programlama diline ait konuların örnek kodlarını içerek dosya dizinidir.
+Java programlama diline ait konuların örnek kodlarını içeren dosya dizinidir.
